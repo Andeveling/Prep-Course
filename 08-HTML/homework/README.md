@@ -7,8 +7,8 @@ Ahora que nos ha visto crear un archivo HTML y una hoja de estilo externa, crear
 Crear un nuevo archivo dentro de la carpeta `homework` llamado `homework.html` donde deberás realizar lo siguiente:
 ```
 I. Cree una página HTML básica.
-  A. Cree el diseño básico para una página HTML usando html, head y body.
-  B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".
+  ok A. Cree el diseño básico para una página HTML usando html, head y body.
+  ok B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".
   C. En el cuerpo, crea tres divs.
     1. En el primer div crea:
       * un elemento h1 que contiene [Tu nombre].
@@ -63,9 +63,9 @@ IV. Suba su trabajo a su repositorio de github`
 ```
 Usando lo que aprendiste de HTML vas a crear un nuevo documento dentro de la carpeta de 'homework' llamado 'cv.html'. En el mismo vas crear tu propio Curriculum, deberá tener las siguientes secciones:
 
-* Titulo
-* Descripción Personal
-* Educación
+* Titulo ok
+* Descripción Personal ok
+* Educación ok
 * Experiencias Laborales
 * Skills
 * Tu foto

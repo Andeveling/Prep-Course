@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://migrexabogados.com/wp-content/uploads/2015/11/Savin-NY-Website-Background-Web.jpg);
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+div {
+    margin: auto;
+    padding: auto;
+}
+
+.divsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.divClass h1 {
+    color: gray;
+}
+
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: antiquewhite;
+    padding: 50px;
+    border: dotted 1px;
+}
+
+#thirdDiv img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.divClass .spanId {
+    font-size: 18px;
+    margin: 50px;
+}
